@@ -13,3 +13,7 @@
 
 
 x=1+2
+
+#multiplication
+#
+x=1*2
